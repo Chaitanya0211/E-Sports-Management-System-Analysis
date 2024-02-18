@@ -1,4 +1,4 @@
-# Sports Management System Database Project
+# E-Sports Management System Database Project
 
 ## Summary
 
